@@ -1,0 +1,33 @@
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Functions</title>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/mocha/1.21.4/mocha.css">
+    <style type="text/css">
+        #help {
+           margin-left: 2em;
+        }
+        .green {color: green; font-weight: bold;}
+    </style>
+</head>
+<body>
+    <div id="help">
+        <h3>Instructions</h3>
+        <p>In the <span class="green">"functions.js"</span> file change ONLY the <span class="green">'???'</span> fields so the values become true.</p>
+        <p>The value can be: <strong>a number, a string, null, or undefined</strong></p>
+        <p>Clicking on the challenge text in the browser shows the code</p>
+    </div>
+    <div id="mocha"></div>
+    <script src="lib/mocha/mocha.js"></script>
+    <script>mocha.setup('bdd')</script>
+    <!-- assertion framework -->
+    <script src="lib/chai/chai.js"></script>
+    <script>var expect = chai.expect</script>
+
+    <!-- include spec files here... -->
+    <script src="functions.js"></script>
+
+    <script>mocha.run()</script>
+</body>
+</html>
