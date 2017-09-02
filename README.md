@@ -34,7 +34,7 @@ You are not allowed to change any of the code in **functions.js**, except for th
 To get a "B", short for bare minimum. Complete the challenge, push to github, and submit your link for grading.
 
 ##### 'A' - 100%
-If you want an "A", then explain in comments below each challenge how you got your answer. Then push to github and submit your link for grading.
+If you want an "A", then explain in the comments below after each challenge how you got your answer. Then push to github and submit your link for grading.
 
 ```javascript
 Example #1:
