@@ -40,3 +40,6 @@ expect(ACTUAL === 'inner').to.be.true;
 ACTUAL is assigned the value the variable name within the function.
 */
 ```
+
+ 
+[Original Github:](https://github.com/bgando/functionalJS/tree/master/scope)
