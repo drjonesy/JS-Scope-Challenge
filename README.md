@@ -45,4 +45,4 @@ ACTUAL is assigned the value the variable name within the function.
 ```
 
  
-[Original Github:](https://github.com/bgando/functionalJS/tree/master/scope)
+[Original Repository: https://github.com/bgando/functionalJS/tree/master/scope](https://github.com/bgando/functionalJS/tree/master/scope)
