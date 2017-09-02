@@ -3,6 +3,9 @@ Fix the code so there are no Errors (x)
 
 ### Instructions
 Download this entire respository or use git clone.
+```sh
+git clone https://github.com/drjonesy/JS-Scope-Challenge.git 
+```
 Once the respository is downloaded, open **SpecRunner.html** in a browser. 
 
 In the browser you will see **Function Exercises** with a single check-mark and bunch of (x)'s. The errors refer to code that needs to be fixed.
